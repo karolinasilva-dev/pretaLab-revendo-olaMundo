@@ -1,0 +1,9 @@
+alert('Olá, mundo! :D');
+
+alert('Me chamo Karolina, sou DEV em formação.');
+
+var nomeDaUsuaria = prompt('Qual o seu nome?');
+
+//alert('Seja bem vinda ao meu primeiro programa, ${nomeDaUsuaria} !');
+
+alert('Seja bem vinda ao meu primeiro programa, '+ nomeDaUsuaria + '!');
